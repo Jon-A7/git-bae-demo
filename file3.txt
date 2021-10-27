@@ -1,1 +1,1 @@
-Hello friends
+Now I'm using vim to edit this file. 
